@@ -4,9 +4,9 @@
 
 #### 目前所含字体
 
-[USMCC源简特粗体](## USMCC源简特粗体)
+[USMCC源简特粗体](##USMCC源简特粗体)
 
-[USMCC星界黑体](## USMCC星界黑体)
+[USMCC星界黑体](##USMCC星界黑体)
 
 ## USMCC源简特粗体
 
