@@ -9,7 +9,6 @@
 [USMCC星界黑体](#USMCC星界黑体)
 
 ## USMCC源简特粗体
-#USMCC源简特粗体
 
 USMCC源简特粗体是由思源宋体反向插值制作的新字体，适用于标题等场所，可以较为和谐的和原有思源字重配合。
 
@@ -30,7 +29,6 @@ USMCC源简特粗体是由思源宋体反向插值制作的新字体，适用于
 思源宋体：https://github.com/adobe-fonts/source-han-serif
 
 ## USMCC星界黑体
-#USMCC星界黑体
 
 USMCC星界黑体/USMCC Stellar Gothic
 
