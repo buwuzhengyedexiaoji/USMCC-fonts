@@ -4,9 +4,9 @@
 
 #### 目前所含字体
 
-USMCC源简特粗体
+USMCC源简特粗体[## USMCC源简特粗体]
 
-USMCC星界黑体
+USMCC星界黑体[## USMCC星界黑体]
 
 ## USMCC源简特粗体
 
@@ -24,6 +24,10 @@ USMCC源简特粗体是由思源宋体反向插值制作的新字体，适用于
 
 ![6](./img/6.png)
 
+感谢：
+
+思源宋体：https://github.com/adobe-fonts/source-han-serif
+
 ## USMCC星界黑体
 
 USMCC星界黑体/USMCC Stellar Gothic
@@ -35,6 +39,7 @@ USMCC星界黑体/USMCC Stellar Gothic
 本字体和デラゴシック、无界黑差异说明：考虑多语言使用和美术字/标题字定位，选择以日文（Adobe Japan）写法优先。在其基础上增加对于繁体中文更好的支持，同时优化部分简体字造型。对于デラゴシック中错误字图，均已经进行修复。
 
 感谢：
+
 デラゴシック：https://github.com/syakuzen/DelaGothic/
 
 无界黑：https://github.com/maoken-fonts/unbounded-sans
